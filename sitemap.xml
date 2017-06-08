@@ -42,12 +42,6 @@
   </url>
   
   <url>
-    <loc>https://malulu.github.io/uxdpolito/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://malulu.github.io/uxdpolito/post/</loc>
     <lastmod>2016-05-16T21:24:04+02:00</lastmod>
     <priority>0</priority>
@@ -61,6 +55,12 @@
   
   <url>
     <loc>https://malulu.github.io/uxdpolito/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://malulu.github.io/uxdpolito/</loc>
+    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
