@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Creative Theme</title>
-    <link>http://lorenzoromagnoli.me/weshare/</link>
-    <description>Recent content on Hugo Creative Theme</description>
+    <title>Projects on Hugo Creative Theme</title>
+    <link>http://lorenzoromagnoli.me/weshare/project/</link>
+    <description>Recent content in Projects on Hugo Creative Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://lorenzoromagnoli.me/weshare/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lorenzoromagnoli.me/weshare/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -50,15 +50,6 @@ The project explores the possibility of implementing a non-invasive sensor syste
       <guid>http://lorenzoromagnoli.me/weshare/project/project2/</guid>
       <description>Virgil is a telepresence robot that allows visitors to explore inaccessible areas of Cultural Heritage contexts, such as castles and historical residences.
 The robot was designed as part of a project focused on the issue of inaccessibility in Cultural Heritage, due to lack of restoration and safety. The project was carried out at the Royal Residence of Racconigi Castle, in Italy, where many areas are excluded from the tour route. The proposed service allows visitors to explore remotely the inaccessible areas through Virgil, the robot teleoperated by a Museum Guide, who is entrusted of the cultural storytelling activity.</description>
-    </item>
-    
-    <item>
-      <title>blah</title>
-      <link>http://lorenzoromagnoli.me/weshare/post/blah/</link>
-      <pubDate>Mon, 16 May 2016 21:24:04 +0200</pubDate>
-      
-      <guid>http://lorenzoromagnoli.me/weshare/post/blah/</guid>
-      <description></description>
     </item>
     
     <item>
