@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uxdpolito</title>
-    <link>https://malulu.github.io/uxdpolito/</link>
+    <link>http://uxdpolito.it/</link>
     <description>Recent content on uxdpolito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://malulu.github.io/uxdpolito/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://uxdpolito.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Virgil Game</title>
-      <link>https://malulu.github.io/uxdpolito/project/2014-07-05-project-1/</link>
+      <link>http://uxdpolito.it/project/2014-07-05-project-1/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/2014-07-05-project-1/</guid>
+      <guid>http://uxdpolito.it/project/2014-07-05-project-1/</guid>
       <description>Virgil Game is an educational game for museums, developed taking advantage of a telepresence robots, designed in a previous project. A treasure hunt concept was used to structure of the service&amp;rsquo;s design concept developed for the Royal Castle of Racconigi.
 Through Virgil Game, visitors have the chance to visit fragile areas of the museum driving it by themselves in a semi-autonomous way, and finding some treasure (artifacts). Answering to some questions regarding these treasures allows to unlock a series of videos that deepen the visit experience.</description>
     </item>
     
     <item>
       <title>Shybo</title>
-      <link>https://malulu.github.io/uxdpolito/project/project4/</link>
+      <link>http://uxdpolito.it/project/project4/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/project4/</guid>
+      <guid>http://uxdpolito.it/project/project4/</guid>
       <description>SHYBO is a small sound-reactive robot for children. This was developed within the framework of a research aimed at understanding how technology is affecting the role of play in children’s everyday life and to define new meaningful scenarios of play.
 In particular, SHYBO is designed to let children play with the physical environment and promote children&amp;rsquo;s reasoning and let them play with sound-color combinations.
 The project is supported by TIM and was developed in collaboration with X-Studio, Tsinghua University, Beijing, China.</description>
@@ -34,49 +34,49 @@ The project is supported by TIM and was developed in collaboration with X-Studio
     
     <item>
       <title>Egyptian Museum</title>
-      <link>https://malulu.github.io/uxdpolito/project/2014-07-07-project-3/</link>
+      <link>http://uxdpolito.it/project/2014-07-07-project-3/</link>
       <pubDate>Tue, 05 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/2014-07-07-project-3/</guid>
+      <guid>http://uxdpolito.it/project/2014-07-07-project-3/</guid>
       <description>This project investigates the theme of visitor’s fatigue and hyper-congestion in museums. This consists of an interdisciplinary activity developed at a large scale museum, the Egyptian Museum of Turin, Italy.
 The project explores the possibility of implementing a non-invasive sensor system that aims to track visitor’s behaviour, and suggests new and custom museum pathways. The project is supported by TIM and developed in collaboration with Museo Egizio, Turin, Italy.</description>
     </item>
     
     <item>
       <title>Virgil</title>
-      <link>https://malulu.github.io/uxdpolito/project/project2/</link>
+      <link>http://uxdpolito.it/project/project2/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/project2/</guid>
+      <guid>http://uxdpolito.it/project/project2/</guid>
       <description>Virgil is a telepresence robot that allows visitors to explore inaccessible areas of Cultural Heritage contexts, such as castles and historical residences.
 The robot was designed as part of a project focused on the issue of inaccessibility in Cultural Heritage, due to lack of restoration and safety. The project was carried out at the Royal Residence of Racconigi Castle, in Italy, where many areas are excluded from the tour route. The proposed service allows visitors to explore remotely the inaccessible areas through Virgil, the robot teleoperated by a Museum Guide, who is entrusted of the cultural storytelling activity.</description>
     </item>
     
     <item>
       <title>blah</title>
-      <link>https://malulu.github.io/uxdpolito/post/blah/</link>
+      <link>http://uxdpolito.it/post/blah/</link>
       <pubDate>Mon, 16 May 2016 21:24:04 +0200</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/post/blah/</guid>
+      <guid>http://uxdpolito.it/post/blah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phygital Play</title>
-      <link>https://malulu.github.io/uxdpolito/project/project5/</link>
+      <link>http://uxdpolito.it/project/project5/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/project5/</guid>
+      <guid>http://uxdpolito.it/project/project5/</guid>
       <description>Phygital Play is a project focused on the screen time issue, a growing phenomenon, which may cause an increase of health issues.
 A new gaming framework is proposed as a step forward in the virtual-physical contamination already largely addressed in research. The system consists of a projected playground, on which people and robot(s) can physically interact. The role of the robot is enhanced entrusting it different roles, from a companion, to an adversary, to the avatar of a remote player.</description>
     </item>
     
     <item>
       <title>HMI concepts for electromobility</title>
-      <link>https://malulu.github.io/uxdpolito/project/project6/</link>
+      <link>http://uxdpolito.it/project/project6/</link>
       <pubDate>Sat, 05 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://malulu.github.io/uxdpolito/project/project6/</guid>
+      <guid>http://uxdpolito.it/project/project6/</guid>
       <description>This research was aimed at defining, and consolidating through prototypes, innovative concepts of human-machine interfaces in electric and hybrid vehicles. Within the 3 years of project, the research explored the use of new technologies, visual and sound languages, perceptual and cognitive aspects for informing, educating, alerting and supporting drivers and passengers in order to create innovative user-experience in a sustainable perspective.
 The research was developed in collaboration with FCA (Fiat Chrysler Automobiles).</description>
     </item>
