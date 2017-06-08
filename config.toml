@@ -1,4 +1,4 @@
-baseurl = "https://malulu.github.io/uxdpolito/"
+baseurl = "http://uxdpolito.it/"
 languageCode = "en-us"
 title = "uxdpolito"
 theme = "weshare"
