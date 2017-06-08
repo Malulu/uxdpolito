@@ -1,6 +1,6 @@
 baseurl = "https://malulu.github.io/uxdpolito/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "uxdpolito"
 theme = "weshare"
 
 [params]
