@@ -1,0 +1,32 @@
+<section class="no-padding" id="products">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+              <h2 class="section-heading">{{ with .Site.Params.products.headline }}{{ . }}{{ end }}</h2>
+              <hr class="light">
+              <p class="text-faded">{{ with .Site.Params.products.description }}{{ . | markdownify }}{{ end }}</p>
+          </div>
+      </div>
+  </div>
+    <div class="container-fluid">
+        <div class="row no-gutter">
+            {{ range where .Data.Pages "Section" "project" }}
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <a href="#portfolioModal{{ .Params.modalID }}" class="portfolio-box portfolio-link" data-toggle="modal">
+                    <img src="img/portfolio/{{ .Params.img }}" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category light">
+                                {{ .Params.category }}
+                            </div>
+                            <div class="project-name">
+                                {{ .Params.title }}
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>

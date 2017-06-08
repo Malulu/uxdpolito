@@ -1,0 +1,28 @@
+<!-- PUBLICATION -->
+<section class="bg-primary" id="publications">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.publications.headline }}{{ . }}{{ end }}</h2>
+                <hr class="light">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <ul class="publication-list">
+                    {{ range $.Site.Data.publication}}
+                    <li>
+                        {{.date}} {{.description}}
+                    </li>
+                    <style>
+                        ul li {
+                            margin-bottom: 15px;
+                        }
+                    </style>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,94 @@
+baseurl = "http://lorenzoromagnoli.me/weshare/"
+languageCode = "en-us"
+title = "Hugo Creative Theme"
+theme = "weshare"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Your description"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "UXD Polito"
+
+		[params.navigation.links]
+			about     = "About"
+			products  = "Projects"
+			contact   = "Contacts"
+			publications   = "Publications"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "luce is the best"
+		subtitle   = "Research and design for digital user experiences"
+
+
+	# About section
+	[params.about]
+		headline    = "About"
+		description = "We are a design research team from the Department of Architecture and Design, of Politecnico di Torino. We develop applied research projects mainly for Cultural Heritage, Automotive, Aeronautics, Play and Education. In our project we use digital tools to enhance human activities aiming at an ethical use of technology for society.  "
+		buttonText  = "Get started!"
+
+		headline2    = "Team"
+
+		[[params.about.teammembers]]
+		name = "Claudio Germak"
+		title= "Full Professor"
+		[[params.about.teammembers]]
+		name = "Andrea Di Salvo"
+		title= "Senior Researcher"
+		[[params.about.teammembers]]
+		name = "Luca Giuliano"
+		title= "Junior Researcher"
+		[[params.about.teammembers]]
+		name = "Maria Luce Lupetti"
+		title= "Junior Researcher"
+		[[params.about.teammembers]]
+		name = "Sara Khan"
+		title= "Junior Researcher"
+
+
+		# Portfolio modals
+	[params.publications]
+	headline    = "Publications"
+	description = "List"
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+	[params.products]
+				headline = "Projects"
+				description = "We apply a human-centred design approach to the development of physical and digital experiences."
+
+
+	# Contact section
+	[params.contact]
+		headline = "Contacts"
+		description = "Interested in what we do? Would you like to collaborate? Get in contact with us!"
+		phone = "+39 333 2248862"
+		email = "info@uxdpolito.com"
