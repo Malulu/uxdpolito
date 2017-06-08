@@ -11,4 +11,4 @@ SHYBO is a small sound-reactive robot for children. This was developed within th
 
 In particular, SHYBO is designed to let children play with the physical environment and promote children's reasoning and let them play with sound-color combinations.
 
-The project is supported by TIM and was developed in collaboration with X-Studio, Tsinghua University, Beijing, China.
+The project is supported by TIM and was developed in collaboration with [X-Studio](http://www.x-studio.org.cn), Tsinghua University, Beijing, China.
